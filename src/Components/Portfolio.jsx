@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/img1.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Student Learn Ambassador",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future..",
+    url: "https://mvp.microsoft.com/studentambassadors/certificate/d5c21ec3-c3f2-4334-9d6e-b7acdde2822d",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Autobiography",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Explore my tech journey autobiography showcasing my passion for innovation, academic achievements and a commitment to driving impactful solutions in the world as a future software engineer maverick! ",
+    url: "https://orange-elset-79.tiiny.site",
   },
   {
-    title: "My Resume Site",
+    title: "Introduction To Artificial Intelligence",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Completed LinkedIn Learning courses in AI and AI for Business, gaining practical knowledge and proficiency in implementing AI solutions",
+    url: "https://lnkd.in/erB2UCrZ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Anime/Manga Site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a personal anime/manga website to showcase skills using Html, Css and JavaScript.",
+    url: "https://6480650811c40800a66760f0--poetic-capybara-b774a8.netlify.app/",
   },
 ];
 
